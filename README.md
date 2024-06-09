@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **joyantsheikharguptajoy@gmail.com**
 
-- ⚡ Fun fact **I am passionate about coding**
+- ⚡ Fun fact **My life revolves around programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
