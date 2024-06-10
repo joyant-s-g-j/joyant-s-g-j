@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1500&lines=Welcome+to+Joyant's+World!+👋;+I'm+Joyant+Sheikhar+Gupta+Joy!;" />
 </h1>
 
-<h3 align="center">Virtual Realm Voyager: Coding, Programming, and Tech Passionate</h3>
+<h3 align="center">Virtual Realm Voyager: Coding, Programming and Tech Passionate</h3>
 
 <br/>
 
