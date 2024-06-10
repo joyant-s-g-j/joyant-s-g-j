@@ -12,7 +12,7 @@
  
  🧑🏻‍💻 I’m currently learning **Django**
 
-💬 Ask me about **C, C++, DSA, OOP, Python, SQL**
+💬 Ask me about **C, C++, DSA, OOP, Python, DBMS, SQL**
 
 ⚡ Fun fact **My life revolves around programming**
 
