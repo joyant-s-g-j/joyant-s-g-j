@@ -14,7 +14,7 @@
 
 💬 Ask me about **C, C++, DSA, OOP, Python, DBMS, SQL**
 
-⚡ Fun fact **My life revolves around programming**
+⚡ Noteworthy Fact: **My life revolves around programming**
 
  </div>
  
