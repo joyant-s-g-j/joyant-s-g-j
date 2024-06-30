@@ -4,20 +4,15 @@
 
 <h3 align="center">Virtual Realm Voyager: Coding, Programming and Tech Passionate</h3>
 
+<hr/>
+<div>
+<h3>About me</h3>
 <br/>
+Hi, I'm Joyant Sheikhar Gupta Joy, a passionate Computer Science and Engineering (CSE) student from Bangladesh, dedicated to proving that CSE is where creativity leads revolution. I specialize in C, C++, Python, DSA, OOP with Python, HTML, CSS, JavaScript, Django (for backend), and MySQL. Currently exploring Django for scalable web solutions. Let's connect to explore opportunities in the tech industry!
 
-<div align="center">
- 
- 🎓 I’m currently studying Computer Science and Engineering at [ADUST](https://www.adust.edu.bd/#/)
- 
- 🧑🏻‍💻 I’m currently learning **Django**
-
-💬 Ask me about **C, C++, DSA, OOP, Python, DBMS, SQL**
-
-⚡ Noteworthy Fact: **My life revolves around programming**
 
  </div>
- 
+ <hr/>
 <div align="center"> 
   <h3 align="center">Connect with me:</h3>
 <p align="center">
