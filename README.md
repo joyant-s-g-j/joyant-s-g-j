@@ -8,7 +8,7 @@
 <div>
 <h3>About me</h3>
 <br/>
-Hi, I'm Joyant Sheikhar Gupta Joy, a passionate Computer Science and Engineering (CSE) student from Bangladesh, dedicated to proving that CSE is where creativity leads revolution. I specialize in C, C++, Python, DSA, OOP with Python, HTML, CSS, JavaScript, Django (for backend), and MySQL. Currently exploring Django for scalable web solutions. Let's connect to explore opportunities in the tech industry!
+Hi, I'm a passionate Computer Science and Engineering (CSE) student from Bangladesh, dedicated to proving that CSE is where creativity leads revolution. I specialize in C, C++, Python, DSA, OOP with Python, HTML, CSS, JavaScript, Django (for backend), and MySQL. Currently exploring Django for scalable web solutions. Let's connect to explore opportunities in the tech industry!
 
 
  </div>
