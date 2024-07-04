@@ -79,6 +79,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyantgupta&theme=github_dark" alt="Stats" /> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyantgupta&theme=github_dark" alt="Productive Time" />
+</div>
 
 <br/>
 
@@ -91,24 +92,29 @@
   <br/>
 </div>
 
-</div>
-<hr/>
-<div align="center"> 
-  <h3 align="center">Connect with me:</h3>
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
 <p align="center">
-<a href="mailto:joyantsheikharguptajoy@gmail.com">
-  <img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail Icon" height="40" width="40" /></a>
-<a href="https://twitter.com/joyantg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joyantg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joyant-sheikhar-gupta-joy-21b790282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joyant-sheikhar-gupta-joy-21b790282" height="30" width="40" /></a>
-<a href="https://fb.com/joyant69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joyant69" height="30" width="40" /></a>
-<a href="https://instagram.com/joyant_s_g_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joyant_s_g_j" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/joyantsheikhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="joyantsheikhar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/joyantsheikharg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joyantsheikharg1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/joyantsheikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="joyantsheikhar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/joyantsheikharguptajoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joyantsheikharguptajoy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/joyant_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="joyant_gupta" height="30" width="40" /></a>
-<a href="https://discord.gg/P6xTqPYX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="P6xTqPYX" height="30" width="40" /></a>
+  &emsp;
+    <a href="https://codeforces.com/profile/joyantsheikhar"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="https://www.leetcode.com/joyantsheikharguptajoy"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="https://www.hackerrank.com/joyantsheikharg1"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+    <a href="https://www.codechef.com/users/joyantsheikhar"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
-</div>
-<hr/>
+## <img src="Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:joyantsheikharguptajoy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    &emsp;
+	<a href="https://github.com/joyantgupta"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+    &emsp;
+	<a href="https://www.linkedin.com/in/joyant-s-g-j"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    &emsp;
+	<a href="https://fb.com/joyant69"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+    &emsp;
+	<a href="https://www.instagram.com/joyant_s_g_j/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
