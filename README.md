@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-<h3>About Me</h3>
+<h2 align="center">About Me</h2>
 <br/>
 Welcome Explorer! I'm a Computer Science & Engineering student passionate about coding and technology. Specializing in Django, I excel in C, C++, Python, OOP, DSA, DBMS, and SQL. Let's collaborate and bring your ideas to life! Connect with me to explore more.
 
@@ -11,7 +11,7 @@ Welcome Explorer! I'm a Computer Science & Engineering student passionate about 
  
 
  <hr/>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <div>
     
 ### Languages:
