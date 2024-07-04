@@ -19,14 +19,14 @@
 <div>
     
 ### Languages:
-| Python | C++ | C | JavaScript | Java | MATLAB | MySQL |
-|--------|-----|---|------------|------|--------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |
+| Python | C++ | C | JavaScript | Java | MATLAB | MySQL | HTML | CSS |
+|--------|-----|---|------------|------|--------|-------|------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/> |
 
 ### Frameworks:
-| Django | HTML | CSS | Bootstrap | Tailwind CSS |
-|--------|------|-----|-----------|--------------|
-| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>
+| Django | Bootstrap | Tailwind CSS |
+|--------|-----------|--------------|
+| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>
 
 
 
