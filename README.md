@@ -2,8 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1500&lines=Welcome+to+Joyant's+World!+👋;+I'm+Joyant+Sheikhar+Gupta+Joy!;" />
 </h1>
 <div>
-<h2 align="center">About Me</h2>
 <br/>
+
+## <img src = "about_me.gif" width = 6.5%> About me
+
+
+<img align="right" src="Right_Side.gif" width=30%>
+
+ <br><br>
     
 🎓 I’m currently studying Computer Science and Engineering at [ADUST](https://www.adust.edu.bd/#/)
 
@@ -13,19 +19,24 @@
 
  </div>
  
+<br><br><br>
 
- <hr/>
-<h2 align="center">Languages and Tools:</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+
 <div>
     
-### Languages:
+### <img src = "Programming_Languages.gif" width=5%> Languages:
+
+<br>
+
 | Python | C++ | C | JavaScript | Java | MATLAB | MySQL | HTML | CSS | LaTeX |
 |--------|-----|---|------------|------|--------|-------|------|-----|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" title="LaTeX" alt="LaTeX" width="45" height="45"/> |
 
+### <img src = "Front_End.gif" width=5%> Frameworks:
 
+<br>
 
-### Frameworks:
 | Django | Bootstrap | Tailwind CSS |
 |--------|-----------|--------------|
 | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45"/> |
