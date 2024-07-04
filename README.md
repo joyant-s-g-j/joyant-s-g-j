@@ -5,7 +5,12 @@
 <div>
 <h2 align="center">About Me</h2>
 <br/>
-Welcome Explorer! I'm a Computer Science & Engineering student passionate about coding and technology. Specializing in Django, I excel in C, C++, Python, OOP, DSA, DBMS, and SQL. Let's collaborate and bring your ideas to life! Connect with me to explore more.
+    
+- 🎓 I’m currently studying Computer Science and Engineering at [ADUST](https://www.adust.edu.bd/#/)
+
+- 💻 Currently learning Django.
+
+- 🚀 I excel in **C**, **C++**, **Python**, **OOP**, **DSA**, **DBMS**, and **SQL**.
 
  </div>
  
@@ -34,7 +39,7 @@ Welcome Explorer! I'm a Computer Science & Engineering student passionate about 
 ### Operating Systems:
 | Windows | Linux | Ubuntu | Kali Linux | Android |
 |---------|-------|--------|------------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/132px-Windows_logo_-_2012.svg.png" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android" width="55" height="55"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/132px-Windows_logo_-_2012.svg.png?20220903072431" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android" width="55" height="55"/> |
 
 
 <div/>
