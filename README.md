@@ -63,7 +63,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
-    
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyantgupta&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyantgupta&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joyantgupta&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyantgupta&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyantgupta&theme=github_dark)
+
 
 </div>
 <hr/>
