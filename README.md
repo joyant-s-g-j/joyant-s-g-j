@@ -10,12 +10,16 @@
 <img align="right" src="Right_Side.gif" width=30%>
 
  <br><br>
-    
+<h4>
+	
 🎓 I’m currently studying Computer Science and Engineering at [ADUST](https://www.adust.edu.bd/#/)
 
 💻 Currently learning Django.
 
 🚀 I excel in **C**, **C++**, **Python**, **OOP**, **DSA**, **DBMS**, and **SQL**.
+
+</h4>
+
 
  </div>
  
