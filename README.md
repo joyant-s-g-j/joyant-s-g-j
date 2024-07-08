@@ -14,9 +14,11 @@
 	
 🎓 I’m currently studying Computer Science and Engineering at [ADUST](https://www.adust.edu.bd/#/)
 
-💻 Currently learning Django.
+🌐 Passionate about technology, programming, and virtual exploration
 
-🚀 I excel in **C**, **C++**, **Python**, **OOP**, **DSA**, **DBMS**, and **SQL**.
+💻 Currently learning **Django**
+
+🚀 I excel in **C**, **C++**, **Python**, **OOP**, **DSA**, **DBMS**, and **SQL**
 
 </h4>
 
