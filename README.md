@@ -78,13 +78,13 @@
 
 <div align=center>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyantgupta&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyant-s-g-j&theme=github_dark" alt="Profile Details" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyantgupta&theme=github_dark" alt="Repos per Language" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joyantgupta&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyant-s-g-j&theme=github_dark" alt="Repos per Language" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joyant-s-g-j&theme=github_dark" alt="Most Commit Language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyantgupta&theme=github_dark" alt="Stats" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyantgupta&theme=github_dark" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyant-s-g-j&theme=github_dark" alt="Stats" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyant-s-g-j&theme=github_dark" alt="Productive Time" />
 </div>
 
 <br/>
@@ -93,7 +93,7 @@
  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="23"> Python Eating My Contributions</h2>
 
   <br>
-  <img src="https://raw.githubusercontent.com/joyantgupta/joyantgupta/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/output/snake.svg" alt="Snake animation" />
   
   <br/>
 </div>
