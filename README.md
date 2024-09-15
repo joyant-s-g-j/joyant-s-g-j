@@ -18,7 +18,7 @@
 
 💻 Currently learning **Django**
 
-🚀 I excel in **C**, **C++**, **Python**, **Javascript**, **Java**, **OOP**, **DSA**, **DBMS**, and **SQL**
+🚀 I excel in **C**, **C++**, **Python**, **Javascript**, **Java**, **OOP**, **DSA**, **DBMS** and **SQL**
 
 </h4>
 
