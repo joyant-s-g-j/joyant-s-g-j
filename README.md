@@ -16,9 +16,9 @@
 
 🌐 Passionate about technology, programming, and virtual exploration
 
-💻 Currently learning **Django**
+<!--💻 Currently learning **Django** -->
 
-🚀 I excel in **C**, **C++**, **Python**, **Javascript**, **Java**, **OOP**, **DSA**, **DBMS** and **SQL**
+🚀 I excel in **Full Stack Development**, **OOP**, **DSA**, **DBMS**
 
 </h4>
 
