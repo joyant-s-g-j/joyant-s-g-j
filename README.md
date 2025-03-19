@@ -51,14 +51,21 @@
 |--------|-----------|--------------|-----------|---------|------------|---------|
 | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="45" height="45"/> | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg) |
 
+<br>
+
+### <img src = "Database.gif" width=5%> Databases:
+
+| MySQL | SQLite | PostgreSQL | MongoDB |
+|-------|--------|-------------|---------|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="45" height="45" /> |
 
 <br>
 
 ### <img src = "Software_Tools.gif" width=5%> Environment and Tools:
 
-| Git | VS Code | Sublime <br/> Text | MySQL | SQLite | Figma | IntelliJ <br/> IDEA | PostgreSQL | Postman |
-|-----|---------|--------------------|-------|--------|-------|---------------|-------------|---------|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="45" height="45"/> | <img src="https://www.sublimehq.com/images/sublime_text.png" title="Sublime Text" alt="Sublime Text" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="45" height="45" />
+| Git | VS Code | Sublime <br/> Text | Figma | IntelliJ <br/> IDEA | Postman | GitHub |
+|-----|---------|--------------------|-------|---------------|---------|--------|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="45" height="45"/> | <img src="https://www.sublimehq.com/images/sublime_text.png" title="Sublime Text" alt="Sublime Text" width="45" height="45"/> |  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="45" height="45" /> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="Github" alt="Github" width="45" height="45" /> |
 
 <br>
 
