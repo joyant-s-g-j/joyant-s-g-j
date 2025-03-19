@@ -16,9 +16,9 @@
 
 🌐 Passionate about technology, programming, and virtual exploration
 
-<!--💻 Currently learning **Django** -->
-
 🚀 I excel in **Full Stack Development**, **OOP**, **DSA**, **DBMS**
+
+💻 Currently learning **MERN Stack**
 
 </h4>
 
