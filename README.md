@@ -87,6 +87,7 @@
 
 ## <img src="Statistics.gif" width=5% valign="bottom"> Github Stats
 
+
 <div align=center>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyant-s-g-j&theme=github_dark" alt="Profile Details" />
@@ -97,6 +98,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyant-s-g-j&theme=github_dark" alt="Stats" /> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyant-s-g-j&theme=github_dark" alt="Productive Time" />
 </div>
+
+## My Contribution Graph
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=joyant-s-g-j&theme=react-dark)
 
 <br/>
 
