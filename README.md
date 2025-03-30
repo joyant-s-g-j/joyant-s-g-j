@@ -99,7 +99,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyant-s-g-j&theme=github_dark" alt="Productive Time" />
 </div>
 
-## My Contribution Graph
+## <img src="graph.gif" width=5% valign="bottom"> My Contribution Graph
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=joyant-s-g-j&theme=react-dark)
 
