@@ -18,7 +18,7 @@
 
 🚀 I excel in **Full Stack Development**, **OOP**, **DSA**, **DBMS**
 
-💻 Currently learning **MERN Stack && Next.js**
+💻 Currently learning **MERN Stack && Next.js** && Modern Technologies
 
 </h4>
 
