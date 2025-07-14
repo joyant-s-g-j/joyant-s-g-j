@@ -16,9 +16,9 @@
 
 🌐 Passionate about technology, programming, and virtual exploration
 
-🚀 I excel in **Full Stack Development**, **OOP**, **DSA**, **DBMS**
+🚀 I excel in **Software Development**
 
-💻 Currently learning **MERN Stack && Next.js**
+💻 Currently exploring mobile app development using **React Native**
 
 </h4>
 
