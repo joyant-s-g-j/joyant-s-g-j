@@ -45,11 +45,12 @@
 
 <br>
 
-### <img src = "Front_End.gif" width=5%> Frameworks:
+### <img src = "Front_End.gif" width=5%> Frameworks & Libraries:
 
-| Django | Bootstrap | Tailwind CSS | React.js | Node.js | Express.js | Next.js |
-|--------|-----------|--------------|-----------|---------|------------|---------|
-| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/> | <img src="icons8-tailwind-css.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="45" height="45"/> | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg) | ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg) |
+| Django | Bootstrap | Tailwind CSS | React.js | Node.js | Express.js | Next.js | React Native |
+|--------|-----------|--------------|-----------|---------|------------|---------|---------------|
+| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/> | <img src="icons8-tailwind-css.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="45" height="45"/> |
+
 
 <br>
 
