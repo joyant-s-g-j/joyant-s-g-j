@@ -18,7 +18,7 @@
 
 🚀 I excel in **Software Development**
 
-💻 Currently exploring mobile app development using **React Native**
+💻 Currently exploring **Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)**
 
 </h4>
 
