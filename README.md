@@ -54,7 +54,7 @@
 
 <br>
 
-### Machine Learning & Data Science Libraries
+### <img src = "ml.gif" width=5%> Machine Learning & Data Science Libraries
 
 | NumPy | Pandas | Matplotlib | Seaborn | Plotly | Scikit-learn |
 |-------|--------|------------|---------|--------|--------------|
@@ -72,9 +72,9 @@
 
 ### <img src = "Software_Tools.gif" width=5%> Environment and Tools:
 
-| Git | VS Code | Sublime <br/> Text | Figma | IntelliJ <br/> IDEA | Postman | GitHub |
-|-----|---------|--------------------|-------|---------------|---------|--------|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="45" height="45"/> | <img src="https://www.sublimehq.com/images/sublime_text.png" title="Sublime Text" alt="Sublime Text" width="45" height="45"/> |  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="45" height="45"/> | <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="45" height="45" /> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="Github" alt="Github" width="45" height="45" /> |
+| Git | VS Code | Sublime <br/> Text | Figma | IntelliJ <br/> IDEA | Postman | GitHub | Google <br/> Colab | Anaconda |
+|-----|---------|--------------------|-------|---------------|---------|--------|------------------|----------|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="45" height="45"/> | <img src="https://www.sublimehq.com/images/sublime_text.png" title="Sublime Text" alt="Sublime Text" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="45" height="45"/> | <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="45" height="45" /> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="Github" alt="Github" width="45" height="45" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" alt="Google Colab" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="45" height="45"/>
 
 <br>
 
