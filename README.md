@@ -82,7 +82,7 @@
 
 | Windows | Linux | Ubuntu | Kali Linux | Android |
 |---------|-------|--------|------------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/132px-Windows_logo_-_2012.svg.png?20220903072431" title="Windows" alt="Windows" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="45" height="45"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android" width="45" height="45"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="45" height="45"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android" width="45" height="45"/> |
 
 
 
