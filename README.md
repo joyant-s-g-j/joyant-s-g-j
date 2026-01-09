@@ -140,9 +140,11 @@
 <p align="center">
 	<a href="mailto:joyantsheikharguptajoy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     &emsp;
-	<a href="https://github.com/joyant-s-g-j"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-    &emsp;
 	<a href="https://www.linkedin.com/in/joyant-s-g-j"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	&emsp;
+	<a href="https://www.behance.net/joyant_s_g_j"><img src="https://img.shields.io/badge/behance-%231769FF.svg?style=plastic&logo=behance&logoColor=white" alt="Behance"/></a>
+	&emsp;
+	<a href="https://dribbble.com/joyant_s_g_j"><img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?style=plastic&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
     &emsp;
 	<a href="https://fb.com/joyant.s.g.j"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
     &emsp;
