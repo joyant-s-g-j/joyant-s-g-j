@@ -97,15 +97,14 @@
 ## <img src="Statistics.gif" width=5% valign="bottom"> Github Stats
 
 
-<div align=center>
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyant-s-g-j&theme=github_dark" alt="Profile Details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyant-s-g-j&theme=github_dark" alt="Repos per Language" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joyant-s-g-j&theme=github_dark" alt="Most Commit Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyant-s-g-j&theme=github_dark" alt="Stats" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyant-s-g-j&theme=github_dark" alt="Productive Time" />
+![](https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+  
 </div>
 
 ## <img src="graph.gif" width=5% valign="bottom"> My Contribution Graph
