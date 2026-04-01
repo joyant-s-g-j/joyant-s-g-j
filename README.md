@@ -59,14 +59,6 @@
 
 <br>
 
-### <img src = "Database.gif" width=5%> Databases:
-
-| MySQL | SQLite | PostgreSQL | MongoDB |
-|-------|--------|-------------|---------|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/> | <img src="icons8-sqlite.svg" title="SQLite" alt="SQLite" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="45" height="45" /> |
-
-<br>
-
 ### <img src = "ml.gif" width=5%> Machine Learning & Data Science Libraries
 
 | NumPy | Pandas | Matplotlib | Seaborn | Plotly | Scikit-learn |
