@@ -40,17 +40,30 @@
 |--------|-----|---|------------|------------|------|--------|-----|------|-----|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title="SQL" alt="SQL" width="75" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" title="LaTeX" alt="LaTeX" width="45" height="45"/> |
 
+<br>
 
+### <img src="Front_End.gif" width=5%> Frontend Frameworks & Libraries
+
+| Bootstrap | Tailwind CSS | Chakra UI | React.js | Next.js | Nuxt.js | React Native |
+|-----------|--------------|-----------|-----------|---------|---------|--------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/> | <img src="icons8-tailwind-css.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg" title="Chakra UI" alt="Chakra UI" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="45" height="45"/> |
 
 
 <br>
 
-### <img src = "Front_End.gif" width=5%> Frameworks & Libraries:
+### <img src="Front_End.gif" width=5%> Backend Frameworks & Tools
 
-| Django | Bootstrap | Tailwind CSS | React.js | Node.js | Express.js | Next.js | Nuxt.js | NestJS | React Native |
-|--------|-----------|--------------|-----------|---------|------------|---------|----------|---------|---------------|
-| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/> | <img src="icons8-tailwind-css.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="45" height="45"/> |
+| Django | Node.js | Express.js | NestJS |
+|--------|---------|------------|--------|
+| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="45" height="45"/> |
 
+<br>
+
+### <img src = "Database.gif" width=5%> Databases:
+
+| MySQL | SQLite | PostgreSQL | MongoDB |
+|-------|--------|-------------|---------|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/> | <img src="icons8-sqlite.svg" title="SQLite" alt="SQLite" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="45" height="45" /> |
 
 <br>
 
