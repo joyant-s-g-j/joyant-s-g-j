@@ -76,7 +76,7 @@
 </tr>
 
 <tr>
-<td><b>Mobile Development</b></td>
+<td><b>Mobile</b></td>
 <td>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
 </td>
