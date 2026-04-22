@@ -18,7 +18,7 @@
 
 🚀 I excel in **Software Development**
 
-💻 Currently exploring **Artificial Intelligence and Machine Learning**
+💻 Currently exploring **Machine Learning**
 
 </h4>
 
