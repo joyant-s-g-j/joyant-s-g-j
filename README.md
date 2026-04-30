@@ -30,64 +30,62 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 <div>
-
+	
 ### Languages
 
 | Python | C++ | C | JavaScript | TypeScript | Java | C# | MATLAB | SQL | HTML | CSS | LaTeX |
 |--------|-----|---|------------|------------|------|----|--------|-----|------|-----|-------|
-| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/> | <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/> | <img src="https://img.shields.io/badge/MATLAB-FF6F00"/> | <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white"/> | <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/> | <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> | <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square"/> | <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white"/> | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> | <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/> |
 
 ### Frontend Library & Frameworks
 
 | Bootstrap | Tailwind CSS | Chakra UI | React | Next.js | Nuxt.js |
 |-----------|--------------|------------|-------|---------|---------|
-| <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/> | <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/> | <img src="https://img.shields.io/badge/ChakraUI-319795"/> | <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/> | <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> | <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> | <img src="https://img.shields.io/badge/ChakraUI-319795?style=flat-square"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/> |
 
 ### Backend Frameworks
 
 | Django | Node.js | Express.js | NestJS |
 |--------|---------|-------------|--------|
-| <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/> | <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> |
 
 ### Mobile Development
 
 | React Native |
 |--------------|
-| <img src="https://img.shields.io/badge/ReactNative-20232A?logo=react&logoColor=61DAFB"/> |
+| <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> |
 
 ### AI, ML & DS
 
 | NumPy | Pandas | Matplotlib | Seaborn | Plotly | Scikit-learn | PyTorch |
 |-------|--------|------------|---------|--------|---------------|---------|
-| <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> | <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> | <img src="https://img.shields.io/badge/Matplotlib-11557C"/> | <img src="https://img.shields.io/badge/Seaborn-4C72B0"/> | <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/> | <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/> | <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/> | <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> | <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> |
 
 ### Databases
 
 | MySQL | SQLite | PostgreSQL | MongoDB | Firebase | Supabase |
 |-------|--------|-------------|---------|----------|----------|
-| <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/> | <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> |
 
 ### AI Automation
 
 | n8n |
 |-----|
-| <img src="https://img.shields.io/badge/n8n-eb5175?logo=n8n&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/n8n-eb5175?style=flat-square&logo=n8n&logoColor=white"/> |
 
 ### Tools
 
 | Git | VS Code | Sublime | Figma | IntelliJ | Postman | GitHub | Colab | Anaconda |
 |-----|--------|---------|-------|----------|---------|--------|-------|----------|
-| <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> | <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white"/> | <img src="https://img.shields.io/badge/Sublime-FF9800"/> | <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/> | <img src="https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white"/> | <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/> | <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> | <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=black"/> | <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> | <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> | <img src="https://img.shields.io/badge/Sublime-FF9800?style=flat-square"/> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> | <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> | <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/> | <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> |
 
 ### Operating Systems
 
 | Windows | Arch Linux | Ubuntu | Kali Linux | Android |
 |---------|------------|--------|-------------|---------|
-| <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/> | <img src="https://img.shields.io/badge/ArchLinux-1793D1?logo=archlinux&logoColor=white"/> | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/> | <img src="https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=white"/> | <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/> |
-<br/>
+| <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> | <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/> | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> | <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white"/> | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> |
 
 ## <img src="Statistics.gif" width=5% valign="bottom"> Github Stats
-
 
 <div align="left">
 
@@ -95,14 +93,11 @@
 ![](https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/main/profile-summary-card-output/github_dark/3-stats.svg)
 <!-- ![](https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/main/profile-summary-card-output/github_dark/2-most-commit-language.svg) -->
 <!-- ![](https://raw.githubusercontent.com/joyant-s-g-j/joyant-s-g-j/main/profile-summary-card-output/github_dark/4-productive-time.svg) -->
-  
 </div>
 
 ## <img src="graph.gif" width=5% valign="bottom"> My Contribution Graph
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=joyant-s-g-j&theme=react-dark)
-
-<br/>
 
 <div align="left">
  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="23"> Python Eating My Contributions</h2>
