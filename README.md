@@ -1,15 +1,15 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1500&lines=Welcome+to+Joy-Verse!+🌐;+I'm+Joyant+Sheikhar+Gupta+Joy!;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=5000&pause=1500&lines=Welcome+to+Joy-Verse!+🌐;+I'm+Joyant+Sheikhar+Gupta+Joy!;" />
 </h1>
+<br>
 <div>
-<br/>
 
 ## <img src = "about_me.gif" width = 6.5%> About me
 
 
 <img align="right" src="Right_Side.gif" width=30%>
 
- <br><br>
+<br>
 <h4>
 	
 🎓 I’m currently studying Computer Science and Engineering at [ADUST](https://www.adust.edu.bd/#/)
@@ -107,27 +107,27 @@
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
 <p align="left">
-    <a href="https://codeforces.com/profile/joyantsheikhar"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+    <a href="https://codeforces.com/profile/joyantsheikhar"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-    <a href="https://leetcode.com/u/joyant_s_g_j/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/u/joyant_s_g_j/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="https://www.hackerrank.com/joyantsheikharg1"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/joyantsheikharg1"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="https://www.codechef.com/users/joyantsheikhar"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/joyantsheikhar"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=flat-square&logo=codechef&logoColor=white" /></a>
 </p>
 
 ## <img src="Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="left">
-	<a href="mailto:joyantsheikharguptajoy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:joyantsheikharguptajoy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
     &emsp;
-	<a href="https://www.linkedin.com/in/joyant-s-g-j"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/joyant-s-g-j"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	&emsp;
-	<a href="https://www.behance.net/joyant_s_g_j"><img src="https://img.shields.io/badge/behance-%231769FF.svg?style=plastic&logo=behance&logoColor=white" alt="Behance"/></a>
+	<a href="https://www.behance.net/joyant_s_g_j"><img src="https://img.shields.io/badge/behance-%231769FF.svg?style=flat-square&logo=behance&logoColor=white" alt="Behance"/></a>
 	&emsp;
-	<a href="https://dribbble.com/joyant_s_g_j"><img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?style=plastic&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
+	<a href="https://dribbble.com/joyant_s_g_j"><img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
     &emsp;
-	<a href="https://fb.com/joyant.s.g.j"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://fb.com/joyant.s.g.j"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
     &emsp;
-	<a href="https://www.instagram.com/joyant_s_g_j/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/joyant_s_g_j/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
