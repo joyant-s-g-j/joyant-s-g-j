@@ -126,8 +126,6 @@
 	&emsp;
 	<a href="https://dribbble.com/joyant_s_g_j"><img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
     &emsp;
-	<a href="https://fb.com/joyant.s.g.j"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    &emsp;
-	<a href="https://www.instagram.com/joyant_s_g_j/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.kaggle.com/joyantsgj"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
