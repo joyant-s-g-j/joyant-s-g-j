@@ -14,11 +14,11 @@
 	
 🎓 I’m currently studying Computer Science and Engineering at [ADUST](https://www.adust.edu.bd/#/)
 
-🌐 Passionate about technology, programming, and virtual exploration
+🌐 Passionate about technology, programming, and exploration
 
 🚀 I excel in **Software Development**
 
-💻 Currently exploring **AI, ML & DL**
+💻 Currently exploring **DevOps, AI, ML & DL**
 
 </h4>
 
