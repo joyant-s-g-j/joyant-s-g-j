@@ -97,7 +97,7 @@
 
 ## <img src="graph.gif" width=5% valign="bottom"> My Contribution Graph
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=joyant-s-g-j&theme=react-dark)
+![github graph](https://activity-graph.vercel.app/graph?username=joyant-s-g-j&theme=react-dark&hide_border=true&area=true)
 
 <div align="left">
  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="23"> Python Eating My Contributions</h2>
